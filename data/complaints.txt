@@ -1,0 +1,35 @@
+THEFT COMPLAINT:
+Category: Theft / Stolen Property
+Urgency: Medium
+Required Documents: Aadhaar card, FIR request letter, proof of ownership, IMEI number (for phones)
+Route to: Nearest police station, crime branch
+
+CYBERCRIME COMPLAINT:
+Category: Cybercrime / Online Fraud
+Urgency: High
+Required Documents: Screenshot of fraud, bank transaction details, Aadhaar card, email/phone records
+Route to: Cyber Crime Cell
+
+HARASSMENT COMPLAINT:
+Category: Harassment / Threatening
+Urgency: High
+Required Documents: Aadhaar card, witness details, screenshots or call records, written complaint
+Route to: Local police station, women helpline if applicable
+
+ACCIDENT COMPLAINT:
+Category: Road Accident / Vehicle Damage
+Urgency: High
+Required Documents: Vehicle RC, insurance papers, driving license, photos of accident scene
+Route to: Traffic police, nearest police station
+
+MISSING PERSON COMPLAINT:
+Category: Missing Person
+Urgency: Very High
+Required Documents: Recent photograph, Aadhaar card, last known location details, contact info
+Route to: Nearest police station immediately
+
+PROPERTY DISPUTE COMPLAINT:
+Category: Property Dispute / Land Grabbing
+Urgency: Medium
+Required Documents: Property documents, Aadhaar card, survey records, witness names
+Route to: Civil court or local police station
