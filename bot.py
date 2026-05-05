@@ -1,12 +1,12 @@
 import os
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel
+from langchain_core.runnables import RunnablePassthrough
 
 def load_bot():
     loader = TextLoader("data/complaints.txt", encoding="utf-8")
@@ -16,7 +16,7 @@ def load_bot():
     chunks = splitter.split_documents(documents)
 
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-    vectorstore = Chroma.from_documents(chunks, embeddings)
+    vectorstore = FAISS.from_documents(chunks, embeddings)
     retriever = vectorstore.as_retriever(search_kwargs={"k": 2})
 
     llm = ChatGroq(
