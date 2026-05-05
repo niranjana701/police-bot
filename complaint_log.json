@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-05-05 12:00:53",
+    "user_complaint": "someone stole my mobile",
+    "bot_response": "🏷️ COMPLAINT CATEGORY: Theft / Stolen Property\n\n🚨 PRIORITY LEVEL: MEDIUM\n\n📋 REQUIRED DOCUMENTS:\n- Aadhaar card\n- FIR request letter\n- Proof of ownership\n- IMEI number (for phones)\n\n🏢 WHERE TO FILE: Nearest police station, crime branch\n\n⚡ ACTION: File the complaint within 24 hours\n\n📌 SOURCE: Based on official complaint guidelines"
+  },
+  {
+    "timestamp": "2026-05-05 12:01:25",
+    "user_complaint": "i lost my money in online fraud",
+    "bot_response": "🏷️ COMPLAINT CATEGORY: Cybercrime / Online Fraud\n\n🚨 PRIORITY LEVEL: HIGH\n\n📋 REQUIRED DOCUMENTS:\n- Screenshot of fraud\n- Bank transaction details\n- Aadhaar card\n- Email/phone records\n\n🏢 WHERE TO FILE: Cyber Crime Cell, cybercrime.gov.in\n\n⚡ ACTION: File immediately, freeze bank account if money lost\n\n📌 SOURCE: Based on official complaint guidelines"
+  },
+  {
+    "timestamp": "2026-05-05 12:02:30",
+    "user_complaint": "my friend is missing",
+    "bot_response": "🏷️ COMPLAINT CATEGORY: Missing Person\n\n🚨 PRIORITY LEVEL: VERY HIGH\n\n📋 REQUIRED DOCUMENTS:\n- Recent photograph\n- Aadhaar card\n- Last known location details\n- Contact info\n\n🏢 WHERE TO FILE: Nearest police station\n\n⚡ ACTION: File a complaint immediately and call 100 for assistance\n\n📌 SOURCE: Based on official complaint guidelines"
+  },
+  {
+    "timestamp": "2026-05-05 12:03:04",
+    "user_complaint": "domestic voilance at home",
+    "bot_response": "🏷️ COMPLAINT CATEGORY: Domestic Violence / Family Abuse\n\n🚨 PRIORITY LEVEL: HIGH\n\n📋 REQUIRED DOCUMENTS:\n- Aadhaar card\n- Medical reports if any\n- Witness details\n- Photos of injury\n\n🏢 WHERE TO FILE: Local police station, women helpline 1091, or one stop centre\n\n⚡ ACTION: Immediately contact the local police station, women helpline 1091, or visit the one stop centre to file a complaint and seek assistance.\n\n📌 SOURCE: Based on official complaint guidelines"
+  },
+  {
+    "timestamp": "2026-05-05 14:11:06",
+    "user_complaint": "i lost my mobile",
+    "bot_response": "🏷️ COMPLAINT CATEGORY: Lost Property\n\n🚨 PRIORITY LEVEL: MEDIUM\n\n📋 REQUIRED DOCUMENTS:\n- FIR (First Information Report) application\n- Identity proof (Aadhaar card, PAN card, etc.)\n- Proof of ownership of the mobile phone (purchase receipt, etc.)\n\n🏢 WHERE TO FILE: Local Police Station\n\n⚡ ACTION: File a complaint immediately at the local police station and also call 112 for emergency assistance if the loss is recent and you suspect immediate misuse.\n\n📌 SOURCE: Based on official complaint guidelines"
+  }
+]

@@ -1,35 +1,63 @@
 THEFT COMPLAINT:
 Category: Theft / Stolen Property
+Priority: MEDIUM
 Urgency: Medium
 Required Documents: Aadhaar card, FIR request letter, proof of ownership, IMEI number (for phones)
 Route to: Nearest police station, crime branch
+Action: File within 24 hours
 
 CYBERCRIME COMPLAINT:
 Category: Cybercrime / Online Fraud
+Priority: HIGH
 Urgency: High
 Required Documents: Screenshot of fraud, bank transaction details, Aadhaar card, email/phone records
-Route to: Cyber Crime Cell
+Route to: Cyber Crime Cell, cybercrime.gov.in
+Action: File immediately, freeze bank account if money lost
 
 HARASSMENT COMPLAINT:
 Category: Harassment / Threatening
+Priority: HIGH
 Urgency: High
 Required Documents: Aadhaar card, witness details, screenshots or call records, written complaint
-Route to: Local police station, women helpline if applicable
+Route to: Local police station, women helpline 1091 if applicable
+Action: File immediately
 
 ACCIDENT COMPLAINT:
 Category: Road Accident / Vehicle Damage
+Priority: HIGH
 Urgency: High
 Required Documents: Vehicle RC, insurance papers, driving license, photos of accident scene
 Route to: Traffic police, nearest police station
+Action: File within 6 hours
 
 MISSING PERSON COMPLAINT:
 Category: Missing Person
+Priority: VERY HIGH
 Urgency: Very High
 Required Documents: Recent photograph, Aadhaar card, last known location details, contact info
 Route to: Nearest police station immediately
+Action: File immediately, call 100
 
 PROPERTY DISPUTE COMPLAINT:
 Category: Property Dispute / Land Grabbing
+Priority: MEDIUM
 Urgency: Medium
 Required Documents: Property documents, Aadhaar card, survey records, witness names
 Route to: Civil court or local police station
+Action: File within 48 hours
+
+DOMESTIC VIOLENCE COMPLAINT:
+Category: Domestic Violence / Family Abuse
+Priority: HIGH
+Urgency: High
+Required Documents: Aadhaar card, medical reports if any, witness details, photos of injury
+Route to: Local police station, women helpline 1091, one stop centre
+Action: File immediately, call 112 for emergency
+
+NOISE POLLUTION COMPLAINT:
+Category: Noise Pollution / Public Nuisance
+Priority: LOW
+Urgency: Low
+Required Documents: Written complaint, address proof, date and time of incident
+Route to: Local police station, municipality office
+Action: File within 7 days
